@@ -1,0 +1,4 @@
+- backend:
+    serviceName: accesscontrol
+    servicePort: 443
+  path: /access-control-service/
